@@ -1,16 +1,14 @@
 =Footballpedia=
 
-{{boxboxtop}}
-* [[England]]
-** [[FA Cup]]
-*** [[FA Cup Qualifying]]
-** [[League Cup]]
-** [[Football League Trophy]]
-** [[Premiership]]
-** [[Championship]]
-** [[League One]]
-** [[League Two]]
-** [[Conference]]
-** [[Conference North]]
-** [[Conference South]]
-{{boxboxbottom}}
+{| border="1" cellpadding="2" style="border-collapse:collapse; text-align:center; font-size:smaller;"
+|- style="background:#f0f6fa;"
+!Country
+!Competition
+!Qualifying
+!Regional Leagues
+|-
+|rowspan="75"|
+|rowspan="70"|
+|rowspan="70"|
+|-
+|colspan="7" style="background:#f0f6fa; text-align:left;"|
