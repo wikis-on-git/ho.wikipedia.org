@@ -1,150 +1,97 @@
-<center><font size="4">This subdomain is reserved for the creation of a Wikipedia in the '''[[:en:Hiri Motu language|Hiri Motu]]''' language.</font> </center>
-<center><font size="3">''If you speak this language and think it would be cool to have your own Encyclopedia on the Internet then '''you''' can make it.<br> Go ahead and start working on your Encyclopedia.</font>''</center>
-
-<center>[http://www.wikipedia.org For more information go to the main website]</center>
-
-----
-
-<center><font size="4">Ce lieu est reservé pour la création d'un "Wikipedia" en langue '''[[:fr:Hiri motu|Hiri motu]]'''.</font> </center>
-<center><font size="3">''Si vous parlez Hiri Motu, et si vous pensez qu'il serait cool d'avoir une encyclopédie Hiri Motu sur l'Internet, '''faites-le'''!<br> Allez ! Modifiez ce texte et commencez à écrire dans l'Encyclopédie.</font>''</center>
-
-<center>[http://fr.wikipedia.org Pour d'autres informations, voir le site principal]</center>
-
-----
-
-<center><font size="4">Este subdominio está reservado para la creación de una "Wikipedia" en lengua '''[[:es:Hiri Motu|Hiri Motu]]'''.</font> </center>
-<center><font size="3">''Si usted habla este idioma y piensa que sería cool tener su propia Enciclopedia en Internet, '''hágalo'''!<br> Modifique este texto y comience a trabajar en su Enciclopedia.</font>''</center>
-
-<center>[http://es.wikipedia.org Para mayor información, visite el sitio principal]</center>
-
-----
-
-<center dir=rtl align=right><font size="4">هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بلغة [[:en:Hiri Motu language|هيري موتو]]..</font> </center>
-<center dir=rtl align=right><font size="3">''إذا يعجب الفكرة، فاكتبها!  إضغط على edit وترجم هذا النص إلى لغة هيري موتو أو ابدأ أن تكتب مقالات.</font>''</center>
-
-<center dir=rtl align=right>[http://ar.wikipedia.org لمعلومات أخرى ومساعدة بالعربية إضغط هنا.]</center>
-
-----
-
-<center><font size="4">Diese Subdomain ist für die Erstellung einer Wikipedia in der '''[[:de:Hiri Motu|Hiri Motu]]''' Sprache reserviert.</font> </center>
-<center><font size="3">''Wenn Du diese Sprache sprichst und es cool fändest eine eigene Enzyklopädie im Internet zu haben, dann kannst '''Du''' sie schaffen.<br> Fang gleich an, an Deiner Enzyklopädie zu arbeiten.</font>''</center>
-
-<center>[http://www.wikipedia.org Weitere Informationen befinden sich auf der Hauptseite]</center>
-
-----
-
-
----
-<div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
-
-'''Other wikis'''
-<small>[http://meta.wikipedia.org Meta-Wikipedia/Meta-Vicipaedia] | [http://wiktionary.org Wikitonary/Victionaria] | [http://wikibooks.org Wikibooks/Vicilibraria] | [http://wikiquote.org Wikiquote/Viciquotas] | [http://wikisource.org Wikisource] </small>
-</div>
-
-[[aa:]]
-[[af:]]
-[[als:]]
-[[ar:]]
-[[de:]]
+__NOTOC__ __NOEDITSECTION__
+{{Pagina principale/Intestazione
+  |titolo=[[Aiuto:Benvenuto|Benvenuti]] <small>su</small> [[Wikipedia]]
+  |sottotitolo=L'enciclopedia libera!
+  |box destro=
+Cerca tra le [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] [[Aiuto:Voce|voci]] in [[Aiuto:It.wiki|lingua italiana]]:
+<inputbox>
+type=search2
+searchbuttonlabel=Ricerca
+buttonlabel=Vai
+width=19
+id=MP
+</inputbox>
+  |introduzione=
+[[Aiuto:Come registrarsi|Come registrarsi]] · [[Aiuto:Guida essenziale|Guida essenziale]] · [[Aiuto:FAQ|FAQ]] · [[Aiuto:Come citare Wikipedia|Citare Wikipedia]]<br />[[Wikipedia:Pagina delle prove|Vuoi provare?]] · [[Wikipedia:General disclaimer|Avvertenza]] · [[Wikipedia:Bar|Bar]] · [[Wikipedia:Pagina principale|Modifica]] · [[foundation:Donazioni|Donazioni]]
+<!-------------------------------------------------------------
+                           SOMMARIO
+-------------------------------------------------------------->
+  |1= Scienze matematiche, fisiche e naturali
+  |2= Arte, letteratura, lingue, musica
+  |3= Scienze sociali, storia, geografia, religione
+  |4= Hobby e società
+  |5= Tecnologia e scienze applicate
+  |6= Indici
+<!-------------------------------------------------------------
+                      SEZIONI PRINCIPALI
+-------------------------------------------------------------->
+  |sezioni=
+{{finestraHome3|titolo=[[Portale:Comunità|Comunità]]
+  |link=template:Pagina_principale/Comunità
+  |logo=Nuvola apps kuser.png
+  |contenuto={{Pagina principale/Comunità}} }}
+{{finestraHome3|titolo=[[Wikipedia:Vetrina|Vetrina]]
+  |link=template:Pagina_principale/Vetrina
+  |logo=Nuvola filesystems services.png
+  |font_size=95
+  |contenuto={{Pagina principale/Vetrina}} }}
+{{finestraHome3|titolo=[[Template:Pagina_principale/Sapevi/Proposte|Lo sapevi che...]]
+  |link=template:Pagina_principale/Sapevi/{{CURRENTDAY}}
+  |logo=Nuvola apps filetypes.png
+  |col_testata=CEF
+  |font_size=95
+  |contenuto={{Pagina principale/Sapevi/{{CURRENTDAY}}}} }} 
+{{finestraHome3|titolo=[[n:|Attualità e Notizie]]
+  |link=template:Pagina_principale/Attualità
+  |logo=Nuvola apps date.png
+  |font_size=95
+  |contenuto={{Pagina principale/Attualità}} }}
+{{finestraHome3|titolo=[[Wikipedia:Tutte le lingue|Tutte le lingue]]
+  |link=template:Pagina_principale/Lingue
+  |logo=Nuvola apps browser.png
+  |font_size=95
+  |contenuto={{Pagina principale/Lingue}} }}
+}}
+<!-------------------------------------------------------------
+                       COLONNA DESTRA
+-------------------------------------------------------------->
+{{Pagina principale/Colonna destra
+  |titolo= [[Commons:Commons:Immagine del giorno|Immagine del giorno]]
+  |contenuto= {{Pagina principale/Immagine}} 
+  |padding-right=23px}}
+{{Pagina principale/Colonna destra
+  |titolo= [[Speciale:Newpages|Novità]]
+  |contenuto= {{Pagina principale/Novità}} }}
+{{Pagina principale/Colonna destra
+  |titolo= [[Portale:Progetti|Da fare...]]
+  |contenuto= {{Pagina principale/Sviluppo}} }}
+<!-------------------------------------------------------------
+                         PROGETTI
+-------------------------------------------------------------->
+{{Pagina principale/Colonna destra chiusura
+  |1= Wikizionario
+  |2= Wikibooks
+  |3= Wikiquote
+  |4= Wikisource
+  |5= Wikispecies
+  |6= Wikinotizie
+  |7= Commons
+  |8= Meta-Wiki 
+  |9= Wikiversity }}
+{{interprogetto|nolink|wikt|b|q|s|wikispecies|n|commons|m}}
+<!-------------------------------------------------------------
+                         ALTRE LINGUE
+---------------------------------------------------------------
+* solo le 10 maggiori, escluso noi 
+* in ordine di grandezza e non alfabetico
+* vedi pagina discussione
+-------------------------------------------------------------->
 [[en:]]
-[[as:]]
-[[ast:]] <!-- missing WikiMedia 1.3 support -->
-[[ay:]]
-[[az:]]
-[[be:]]
-[[bg:]]
-[[bn:]]
-[[bo:]]
-[[bs:]]
-[[cs:]]
-[[co:]]
-[[cs:]]
-[[cy:]]
-[[da:]]
 [[de:]]
-[[el:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[fa:]]
-[[fi:]]
 [[fr:]]
-[[fy:]]
-[[ga:]]
-[[gl:]]
-[[gn:]]
-[[gu:]]
-[[he:]]
-[[hi:]]
-[[hr:]]
-[[hy:]]
-[[ia:]]
-[[id:]]
-[[is:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[kk:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[ks:]]
-[[ku:]]
-[[ky:]]
-[[la:]]
-[[ln:]] <!-- missing WikiMedia 1.3 support -->
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[hu:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mr:]]
-[[ms:]]
-[[mt:]] <!-- missing WikiMedia 1.3 support -->
-[[my:]]
-[[na:]]
-[[nah:]]
-[[nds:]]
-[[ne:]]
-[[nl:]]
-[[no:]]
-[[oc:]]
-[[om:]]
-[[pa:]]
 [[pl:]]
-[[ps:]]
+[[ja:]]
+[[nl:]]
 [[pt:]]
-[[qu:]]
-[[ro:]]
-[[ru:]]
-[[sa:]]
-[[si:]]
-[[sk:]]
-[[sl:]]
-[[sq:]]
-[[sr:]]
 [[sv:]]
-[[sw:]]
-[[ta:]]
-[[te:]]
-[[tg:]]
-[[th:]]
-[[tk:]]
-[[tl:]]
-[[tr:]]
-[[tt:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[vi:]]
-[[vo:]]
-[[xh:]]
-[[yo:]]
-[[za:]]
-[[zh:]]
-[[zu:]]
+[[es:]]
